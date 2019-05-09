@@ -75,10 +75,10 @@ h2{
   color: white;
 }
 
-.html {width: 80%; background-color: orange;}
-.css {width: 60%; background-color: #2196F3;}
-.js {width: 30%; background-color: #4CAF50;}
-.ruby {width: 100%; background-color: #f44336;}
+.html {width: 100%; background-color: orange;}
+.css {width: 100%; background-color: #2196F3;}
+.js {width: 90%; background-color: #4CAF50;}
+.ruby {width: 95%; background-color: #f44336;}
 
 @media (max-width: 960px) {
   /* For a screen < 960px, this CSS will be read */
